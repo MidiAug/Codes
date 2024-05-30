@@ -1,0 +1,17 @@
+$TTL 1D
+
+@ IN SOA whalecloudvcenter.com. root.whalecloudvcenter.com. (
+
+ 2007091701  ; Serial
+
+ 30800  ; Refresh
+
+ 7200  ; Retry
+
+ 604800  ; Expire
+
+ 300 )  ; Minimum
+
+  IN NS whalecloudvcenter.com.
+
+1  IN PTR whalecloudvcenter.com.

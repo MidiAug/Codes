@@ -1,0 +1,15 @@
+whalecloudvcenter.com. IN SOA ns1.whalecloudvcenter.com. root.whalecloudvcenter.com. (
+
+ 2007091701  ; Serial
+
+ 30800  ; Refresh
+
+ 7200  ; Retry
+
+ 604800  ; Expire
+
+ 300 )  ; Minimum
+
+ IN NS ns1.whalecloudvcenter.com.
+
+* IN A  192.168.100.1
